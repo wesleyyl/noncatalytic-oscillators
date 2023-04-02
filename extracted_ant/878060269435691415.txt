@@ -1,3 +1,5 @@
+Seed: 878060269435691415
+
 var S0
 var S1
 var S2
